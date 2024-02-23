@@ -1,4 +1,4 @@
-### Hi there 👋
+臭写kook机器人的
 
 <!--
 **Edint386/Edint386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
