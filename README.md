@@ -1,5 +1,11 @@
-臭写kook机器人的
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Edint386)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edint386)](https://github.com/anuraghazra/github-readme-stats)
+
+关于
+- 🔭 臭写kook机器人的  
+- 🌱 学CS打CS
 <!--
 **Edint386/Edint386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
